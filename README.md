@@ -58,10 +58,16 @@ The project was carried out as a **personal learning initiative** to gain hands-
 ---
 
 ## Repository Structure
-`6T-SRAM-Cell-Design-and-Analysis/`
-- `Reports/SRAM_6T_REPORT.pdf`
-- `README.md`
 
+6T-SRAM-Cell-Design-and-Analysis/
+- results/
+   - 6T_SRAM_Transistor_Level_Schematic.png
+   - Hold_0_and_Hold_1_Waveforms.png
+   - Read_0_Waveform.png
+   - Read_1_Waveform.png
+   - Write_0_and_Write_1_Waveforms.png
+- 6T_SRAM_Cell_Design_and_Analysis.pdf
+- README.md
 
 ---
 
